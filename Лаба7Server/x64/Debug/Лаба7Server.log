@@ -1,0 +1,3 @@
+﻿  Лаба7Server.cpp
+C:\Users\GAbdu\source\repos\Лаба7Server\Лаба7Server.cpp(29): warning C4715: Sum: значение возвращается не при всех путях выполнения
+  Лаба7Server.vcxproj -> C:\Users\GAbdu\source\repos\Лаба7Server\x64\Debug\Лаба7Server.exe
