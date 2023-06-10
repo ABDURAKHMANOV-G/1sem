@@ -1,0 +1,3 @@
+﻿  Защита5.cpp
+C:\Users\GAbdu\source\repos\Защита5\Защита5.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Защита5.vcxproj -> C:\Users\GAbdu\source\repos\Защита5\x64\Debug\Защита5.exe
