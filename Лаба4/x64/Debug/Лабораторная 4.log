@@ -1,0 +1,5 @@
+﻿  Лабораторная 4.cpp
+C:\Users\GAbdu\source\repos\Лабораторная 4\Лабораторная 4.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лабораторная 4\Лабораторная 4.cpp(46,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лабораторная 4\Лабораторная 4.cpp(47,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Лабораторная 4.vcxproj -> C:\Users\GAbdu\source\repos\Лабораторная 4\x64\Debug\Лабораторная 4.exe
