@@ -1,0 +1,7 @@
+﻿  CPoint.cpp
+C:\Users\GAbdu\source\repos\Лаба9\CPoint.cpp(18,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9\CPoint.cpp(23,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Лаба9.2.cpp
+  Создание кода...
+Лаба9.1.obj : error LNK2005: main уже определен в Лаба9.2.obj
+C:\Users\GAbdu\source\repos\Лаба9\x64\Debug\Лаба9.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

@@ -1,0 +1,11 @@
+﻿  CPoint.cpp
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(18,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(23,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(35,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(36,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(39,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(46,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\GAbdu\source\repos\Лаба9.1\CPoint.cpp(48,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Лаба9.1.cpp
+  Создание кода...
+  Лаба9.1.vcxproj -> C:\Users\GAbdu\source\repos\Лаба9.1\x64\Debug\Лаба9.1.exe
